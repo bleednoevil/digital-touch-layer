@@ -1,1 +1,1 @@
-# Digital Touch Layer (.digitaltouchlayer)
+# Digital Touch Layer (.dtl)
