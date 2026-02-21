@@ -1,1 +1,1 @@
-# .digitaltouchlayer
+# Digital Touch Layer (.digitaltouchlayer)
