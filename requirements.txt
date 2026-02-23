@@ -1,0 +1,3 @@
+install dependency sox
+
+brew install sox
